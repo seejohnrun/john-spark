@@ -2,5 +2,5 @@ name: john
 version: 1.0.0
 compatibility: 1.0.0
 dependencies:
-  example-spark: 1.0
+  example-spark: 1.0.0
 tags: ['hello']
